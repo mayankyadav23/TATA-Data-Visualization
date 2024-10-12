@@ -47,6 +47,10 @@ PowerPoint: For presenting insights effectively.
 
 -> Strengthened my ability to communicate complex data clearly to diverse audiences.
 
+## 🏅 Certificate
+![Screenshot 2024-10-12 115803](https://github.com/user-attachments/assets/deab36ae-eb36-42b1-b439-9015653ea695)
+
+
 ## 🎉 Conclusion
 
 This job simulation provided invaluable hands-on experience in data visualization and insights communication, equipping me with the skills necessary to leverage data for informed business decisions.
